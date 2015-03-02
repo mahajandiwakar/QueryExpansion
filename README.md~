@@ -1,0 +1,20 @@
+# QueryExpansion
+
+Mahd Tauseef	mt2932
+Diwakar Mahajan	dm3084
+
+List of Files:
+README.md           
+transcript.doc
+AugmentQuery.java  
+DocVector.java  
+InvertedIndex.java     
+BingTest.java      
+IndexElem.java  
+ResultElement.java  
+SearchResults.java
+VectorElem.java
+run.sh              
+compile.sh              
+commons-codec-1.10.jar  
+json-simple-1.1.1.jar  
